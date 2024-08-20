@@ -1,4 +1,4 @@
-Header
+<img style="background-size: cover;" src="assets/programing.jpg" alt="">
 
 About me
 
