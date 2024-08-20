@@ -1,6 +1,5 @@
 <img style="background-size: cover;" src="assets/programing.jpg" alt="">
 <br>
-<br>
 <h1>Hi, I'm Valeria and I'm learning programming</h1>
 <h3>What languages do I speak?</h3>
 <ul>
