@@ -8,7 +8,6 @@
         <li>Ukrainian(A2)</li>
         <li>English(A1-A2)</li>
 </ul>
-<br>
 <h3>What tools do I know?</h3>
 <ul>
         <li>HTML</li>
@@ -17,7 +16,9 @@
         <li>SASS</li>
         <li>Git</li>
 </ul>
-
-Hoby
-
-Follow me 
+<h3>Hobby?</h3>
+<ul>
+        <li>Skateboarding</li>
+        <li>Reading books</li>
+        <li>Computer games</li>
+</ul>
