@@ -10,10 +10,13 @@
 </ul>
 <br>
 <h3>What tools do I know?</h3>
-css html sass git js
-
-
-
+<ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>
+        <li>SASS</li>
+        <li>Git</li>
+</ul>
 
 Hoby
 
