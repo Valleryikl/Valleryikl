@@ -1,7 +1,11 @@
 <img style="background-size: cover;" src="assets/programing.jpg" alt="">
 <h1>Hi, I'm Valeria and I'm learning programming</h1>
-![Vallery's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valleryikl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valleryikl&layout=compact&theme=radical)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Valleryikl&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valleryikl&layout=donut"/>
+</p>
+
+
 <h3>What languages do I speak?</h3>
 <ul>
         <li>Romanian(Native)</li>
