@@ -4,16 +4,19 @@
 <ul>
         <li>Romanian(Native)</li>
         <li>Russian(Native)</li>
+        <li>Ukrainian(B1)</li>
         <li>French(A2-B1)</li>
-        <li>Ukrainian(A2)</li>
         <li>English(A1-A2)</li>
 </ul>
 <h3>What tools do I know?</h3>
 <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JS</li>
+        <li>HTML/CSS</li>
         <li>SASS</li>
+        <li>JS</li>
+        <li>PHP</li>
+        <li>SQL</li>
+        <li>Python</li>
+        <li>Bustrap</li>
         <li>Git</li>
 </ul>
 <h3>Hobby?</h3>
