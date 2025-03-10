@@ -1,7 +1,7 @@
 <img style="background-size: cover;" src="assets/programing.jpg" alt="">
 <h1>Hi, I'm Valeria and I'm learning programming</h1>
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Valleryikl&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Valleryikl&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_rank=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valleryikl&layout=donut"/>
 </p>
 
