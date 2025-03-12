@@ -2,20 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Запуск каждый день в полночь
+    - cron: "0 0 * * *"  # Запускается каждый день
   workflow_dispatch:
 
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: valleryikl  # Замени на свой ник
-          svg_out_path: dist/github-snake.svg
-      - name: Push Snake
+          github_user_name: valleryikl  # Замени на свой GitHub ник
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and Push
         run: |
-          git add dist/github-snake.svg
-          git commit -m "Update snake"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Updated snake animation" || echo "No changes to commit"
           git push
