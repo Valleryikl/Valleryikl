@@ -23,3 +23,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Valleryikl&theme=algolia"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valleryikl&langs_count=20&layout=compact&theme=algolia"/>
 </p>
+
+### 🐍 GitHub Contribution Snake  
+![GitHub Snake](https://github.com/valleryikl/valleryikl/blob/output/github-contribution-grid-snake.svg?raw=true)
+
