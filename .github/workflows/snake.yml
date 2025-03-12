@@ -1,0 +1,21 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Запуск каждый день в полночь
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: valleryikl  # Замени на свой ник
+          svg_out_path: dist/github-snake.svg
+      - name: Push Snake
+        run: |
+          git add dist/github-snake.svg
+          git commit -m "Update snake"
+          git push
