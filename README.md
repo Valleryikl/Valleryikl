@@ -12,7 +12,10 @@
   ⚡ **Current missions:**
 - Mastering JavaScript beyond `console.log("Hello, World !")`
 - Becoming a freelance ghost in the machine
-- Experimenting with UI/UX to make better digital experiences
+- Experimenting with UI/UX to make better digital experiences  
+
+📌 **Find me here:**
+[🥋 Codewars](https://www.codewars.com/users/vallery_ik) | [💬 Discord](https://discordapp.com/users/1037635044216406057) 
 
 &nbsp;
 
