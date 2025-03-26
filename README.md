@@ -23,4 +23,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Valleryikl&theme=algolia"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valleryikl&langs_count=20&layout=compact&theme=algolia"/>
 </p>
+    
+&nbsp;
 
+<div align="center">
+<a href="https://github.com/Valleryikl/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Valleryikl&theme=github-dark"width="800"></a>
+</div>
